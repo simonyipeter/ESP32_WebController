@@ -14,7 +14,7 @@ Preferences preferences;
 Adafruit_SSD1306 display(OLED_RESET);
 #define NUMFLAKES 10 #define XPOS 0 #define YPOS 1 #define DELTAY 2
 
-const char* ssid = "WL500gp"; const char* password = "simonyip";
+const char* ssid = "xxxx"; const char* password = "xxxx";
 
 unsigned int ref_time;
 
