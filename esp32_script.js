@@ -8,9 +8,7 @@ $( document ).ready(function() {
 		
 	$('.row').css('margin-bottom','50px');
 	
-	setTimeout(function(){
-	   window.location.reload(1);
-	}, $("#ref_time").val()*1000);
+	//setTimeout(function(){	   window.location.reload(1);	}, $("#ref_time").val()*1000);
 	
 	
 });
